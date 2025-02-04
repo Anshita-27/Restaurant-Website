@@ -1,0 +1,109 @@
+body {
+            background-color: antiquewhite;
+     }
+h1{
+    font-size: 42px;
+    color: black;
+}
+       
+.food img{
+        background-color: antiquewhite;
+        width : 150px;
+        height: auto;
+        border-radius: 9cm;
+        aspect-ratio: 1;
+        object-fit:cover;
+        padding: 10%;
+}
+.food img:hover{
+    transform : scale(1.1);
+    transition : all .2s ease-in-out;
+}
+.tables{
+    background-color:#ff8c00;
+    left: 200px;
+
+}
+.des{
+    background-color: white;
+}
+.main_content{
+    min-height: 500px;
+    max-width: 1200px;
+    margin: auto;
+}
+.chilli img{
+    background-color:#ff8c00 ;
+    
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 8px;
+    overflow: hidden;
+    width: fit-content;
+
+}
+li{
+    float: left;
+    margin-right: 20px;
+}
+.firstrow{
+    background-color:#ff8c00;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    position: sticky;
+    top:0;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #828282;
+    align-items: center;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#ff8c00;
+}
+.cakess{
+    background-color: whitesmoke;
+}
+.fist{
+    background-color: rgb(255, 183, 0);
+}
+.gif img{
+    background-color: white;
+    width: 80px;
+    height: auto;
+    margin: 10px 800px 50px 50px;
+}
+.ss img{
+    background-color: antiquewhite;
+}
+.starving img{
+    float: right;
+    width: 170px;
+    height: auto;
+    margin-right: 15px;
+    margin-bottom: 50px;
+}
+.line{
+    font-size: 50px;
+    color:#ff4d00;
+    margin-left: 30px;
+}
+.line2{
+    margin-left: 30px;
+}
+.gif2 img{
+    background-color: white;
+    width: 80px;
+    height: auto;
+    margin: 10px 50px 50px 800px;
+}
+.top_picks img:hover{
+    transform : scale(1.1);
+    transition : all 1s ease-in-out;
+}
+.address{
+    background-color: #f8f6f6;
+}
